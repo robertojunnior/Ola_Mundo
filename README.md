@@ -1,2 +1,2 @@
 # Olá, Mundo!
- first guanabex course versioning repository
+ Primeiro repositório do curso de Git do Guanabex.
